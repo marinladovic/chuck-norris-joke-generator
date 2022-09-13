@@ -1,0 +1,15 @@
+{
+  "name": "chucknorrisjokegenerator",
+  "version": "1.0.0",
+  "description": "Generates a select number of Chuck Norris jokes",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "marin",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.8.3"
+  }
+}
